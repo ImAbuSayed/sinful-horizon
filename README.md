@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sinful-horizon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sinful Horizon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinful-horizon/) |
+| **Get License** | [Official Music Licensing for Sinful Horizon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinful-horizon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ni main raat di haneri vich shadow ban janda haan
+> Teri akhiyan di kashish ch lost ho janda haan
+> Soniye tu takdi te crazy main karda haan
+> Tere ishq ch so deep main utarda haan
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
