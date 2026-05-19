@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sinful-horizon/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sinful Horizon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinful-horizon/) |
+| **Get License** | [Secure Licensing Rights for Sinful Horizon](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sinful-horizon/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `38224345d89a06e8b9b061ef46e23b097ca73aab41ad788de68403f9153c079b` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

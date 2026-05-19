@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sinful Horizon
+
+This log tracks the cryptographic history and versioning for the song **Sinful Horizon** (sinful-horizon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T01:37:26.322125 | `v1` | `38224345d89a06e8b9b061ef46e23b097ca73aab41ad788de68403f9153c079b` | `7fffeddb7c56b59dbf39bd54b1eb09877b9af7f5b5011d08545c7d6eb6a17657` | `2026-05-20_sinful-horizon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
